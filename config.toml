@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cryptod"
+theme = "hugo-theme-yinyang"
+
+[params]
+headTitle = "Cryptod"
+mainSections = ["posts"]
+
+[author]
+  name = "mrtampan"
